@@ -1,1 +1,1 @@
-# Contains soultion for Hacker Rank Problems
+# Contains solutions for Hacker Rank Problems
